@@ -6,7 +6,7 @@ import (
 )
 
 func mina()  {
-	fmt.Println("Hallo das geht")
+	fmt.Println("Hallo das geht, erweiterung")
 	
 }
 
